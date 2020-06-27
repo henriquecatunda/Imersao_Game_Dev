@@ -2,7 +2,7 @@
 
 O Imersão Game Dev Alura foi uma semana onde desenvolvemos um game, o jogo basea-se em um reino invadido por um bruna que lança diversas criaturas mágicas na cidade, onde aparece um coragoso soldado que deve  enfrentar essas criaturas e derrotar a bruxa.
 
-![Tela do jogo](https://drive.google.com/file/d/1BCg8V1Gy58t56XZWlcsxRjRUb3hmMrjs/view?usp=sharing)
+![Tela do jogo](frame.png)
 
 
 Você pode jogar o jogo aqui:  https://henriquecatunda.github.io/Imersao_Game_Dev/ 
