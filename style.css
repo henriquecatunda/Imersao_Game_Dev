@@ -1,7 +1,31 @@
 html, body {
   margin: 0;
   padding: 0;
+   
 }
 canvas {
   display: block;
+  
+ 
+}
+
+.estilo_botao{
+  
+  
+  background-color: #1B2E70;
+  color: white;
+  padding:10px 40px;
+  border-radius:20px;
+  font-size: 30px;
+  width:200px;
+  height: 60px;
+  cursor: pointer;
+
+}
+
+
+.estilo_texto{
+  
+   color: white;
+  
 }
