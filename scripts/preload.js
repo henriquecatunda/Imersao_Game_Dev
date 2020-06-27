@@ -11,7 +11,7 @@ function preload(){
   
   imagemInimigoGrande = loadImage('imagens/inimigos/troll.png');
   
-  imagemInimigoVoador = loadImage('imagens/inimigos/gotinha.png');
+  imagemInimigoVoador = loadImage('imagens/inimigos/gotinha-voadora.png');
   
   imagemGameOver = loadImage("imagens/assets/gameover.png");
   
